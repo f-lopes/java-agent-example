@@ -1,1 +1,1 @@
-#Simple LoggingAgent example
+#Simple logging Agent example
